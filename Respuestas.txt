@@ -1,0 +1,19 @@
+Respuestas Tp2
+
+1¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+ 
+ El archivo se movio a una carpeta tempral "output"
+ ya que esta en otra rama distinta a main.
+
+
+2-En la rama main agregue un nuevo archivo que se llame Respuestas.txt y realice
+un commit para agregar este archivo al repositorio.
+En VSCode vuelva al “Source Control” ¿Qué diferencias nota?
+
+Se agrega a la rama main de forma local y veo la rama opcion dos
+desplegada de forma paralela 
+
+3-Luego del merge en VSCode vuelva al “Source Control” vea los cambios, ¿Qué nota?
+  luego del merge se ve como se cierra la rama de "opcion_2" y donde se une con
+  el main.
+ 
